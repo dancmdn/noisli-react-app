@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/noisli-react-app/static/css/main.882bf124.chunk.css",
+    "main.js": "/noisli-react-app/static/js/main.1d4e5655.chunk.js",
+    "main.js.map": "/noisli-react-app/static/js/main.1d4e5655.chunk.js.map",
+    "runtime-main.js": "/noisli-react-app/static/js/runtime-main.9abd3307.js",
+    "runtime-main.js.map": "/noisli-react-app/static/js/runtime-main.9abd3307.js.map",
+    "static/js/2.0ff24dd1.chunk.js": "/noisli-react-app/static/js/2.0ff24dd1.chunk.js",
+    "static/js/2.0ff24dd1.chunk.js.map": "/noisli-react-app/static/js/2.0ff24dd1.chunk.js.map",
+    "index.html": "/noisli-react-app/index.html",
+    "precache-manifest.0e8929f4c197d8ff673bd269bf527d5f.js": "/noisli-react-app/precache-manifest.0e8929f4c197d8ff673bd269bf527d5f.js",
+    "service-worker.js": "/noisli-react-app/service-worker.js",
+    "static/css/main.882bf124.chunk.css.map": "/noisli-react-app/static/css/main.882bf124.chunk.css.map",
+    "static/js/2.0ff24dd1.chunk.js.LICENSE.txt": "/noisli-react-app/static/js/2.0ff24dd1.chunk.js.LICENSE.txt",
+    "static/media/bonfire.svg": "/noisli-react-app/static/media/bonfire.5dcbf347.svg",
+    "static/media/bonfire.mp3": "/noisli-react-app/static/media/bonfire.f1f68c43.mp3",
+    "static/media/coffee-shop.svg": "/noisli-react-app/static/media/coffee-shop.147418b2.svg",
+    "static/media/coffee-shop.mp3": "/noisli-react-app/static/media/coffee-shop.50b130a9.mp3",
+    "static/media/rain.svg": "/noisli-react-app/static/media/rain.4a92fecd.svg",
+    "static/media/rain.mp3": "/noisli-react-app/static/media/rain.cf30ac89.mp3",
+    "static/media/seaside.mp3": "/noisli-react-app/static/media/seaside.d04e152b.mp3",
+    "static/media/seaside.svg": "/noisli-react-app/static/media/seaside.e1f8ac47.svg",
+    "static/media/summer-night.svg": "/noisli-react-app/static/media/summer-night.a19528da.svg",
+    "static/media/summer-night.mp3": "/noisli-react-app/static/media/summer-night.d6893090.mp3",
+    "static/media/thunder.svg": "/noisli-react-app/static/media/thunder.0ab03134.svg",
+    "static/media/thunder.mp3": "/noisli-react-app/static/media/thunder.1eb4fc60.mp3",
+    "static/media/train.svg": "/noisli-react-app/static/media/train.7180099b.svg",
+    "static/media/train.mp3": "/noisli-react-app/static/media/train.721cf6bb.mp3",
+    "static/media/underwater.svg": "/noisli-react-app/static/media/underwater.19ff2687.svg",
+    "static/media/underwater.mp3": "/noisli-react-app/static/media/underwater.51728d92.mp3",
+    "static/media/water-stream.mp3": "/noisli-react-app/static/media/water-stream.8e56fa59.mp3",
+    "static/media/water-stream.svg": "/noisli-react-app/static/media/water-stream.94bbf000.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9abd3307.js",
+    "static/js/2.0ff24dd1.chunk.js",
+    "static/css/main.882bf124.chunk.css",
+    "static/js/main.1d4e5655.chunk.js"
+  ]
+}
