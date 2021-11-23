@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/noisli-react-app/precache-manifest.0e8929f4c197d8ff673bd269bf527d5f.js"
+  "/noisli-react-app/precache-manifest.6003a9b20c9bc46bd5a7a98f43df7f4a.js"
 );
 
 self.addEventListener('message', (event) => {
